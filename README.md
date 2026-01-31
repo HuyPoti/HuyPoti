@@ -186,11 +186,7 @@ Ngày: 26/06/2025
 
 ## Phân tích GitHub
 
-<div align="center">
 
-<img width="47.7%" src="https://github-readme-stats.vercel.app/api?username=HuyPoti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2D9EF7&text_color=C9D1D9&icon_color=2D9EF7&count_private=true" />
-
-</div>
 <div align="center">
 <img width="50.3%" src="https://github-readme-streak-stats.herokuapp.com/?user=HuyPoti&theme=tokyonight&hide_border=true&background=0D1117&ring=2D9EF7&fire=2D9EF7&currStreakLabel=2D9EF7" />
   
@@ -199,7 +195,12 @@ Ngày: 26/06/2025
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HuyPoti&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2D9EF7&line=2D9EF7&point=C9D1D9"/>
 </div>
 <div align="center">
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HuyPoti&theme=tokyo-night&hide_border=true&bg_color=ffffff&color=e6e600&line=2D9EF7">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=170250617" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=170250617&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @HuyPoti" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=170250617&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
