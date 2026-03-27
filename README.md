@@ -29,10 +29,10 @@ This research has been published in the Journal of Science and Technology – Th
 <td width="30%">
 
 ```yaml
-Tạp chí: JST-TNU
-Số: 230(07)
-Trang: 126-135
-Ngày: 26/06/2025
+Journal: JST-TNU
+Issue: 230(07)
+Pages: 126-135
+Date: 26/06/2025
 ```
 
 **[Read Paper →](https://jst.tnu.edu.vn/jst/article/view/12430)**
