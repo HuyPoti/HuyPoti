@@ -4,8 +4,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer;Web+Developer;)](https://git.io/typing-svg)
 <p align="center">
-  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-  <a href="mailto:huynguyengiapoti@gmail.com"><img src="https://img.shields.io/badge/Email-huynguyengiapoti%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+</p>
+
+<p align="center">
+  <a href="mailto:huynguyengiapoti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-huynguyengiapoti%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/huy-nguyen-gia-46bb6a35b/">
+    <img src="https://img.shields.io/badge/LinkedIn-HuyNguyenGia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
