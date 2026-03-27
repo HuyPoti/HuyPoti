@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nguyễn Gia Huy
+# Nguyen Gia Huy
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2D9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer;Web+Developer;)](https://git.io/typing-svg)
 <p align="center">
@@ -8,26 +8,22 @@
   <a href="mailto:huynguyengiapoti@gmail.com"><img src="https://img.shields.io/badge/Email-huynguyengiapoti%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/tynnp"><img src="https://img.shields.io/badge/GitHub-%40huypoti-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="tel:0903990421"><img src="https://img.shields.io/badge/Phone-0903990421-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
-</p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
-## Nghiên cứu & Công trình khoa học
+## Research and Scientific Publications
 
-**Một hệ thống bot gửi tin nhắn cài đặt sẵn trong các mạng xã hội**
+**A Pre-configured Messaging Bot System for Social Media Platforms**
 
 <table>
 <tr>
 <td width="70%">
 
-Hệ thống bot thông báo đến người dùng ở nhiều nền tảng mạng xã hội Telegram, Slack, Discord, cực kỳ tiện dụng đối với việc học tập và kinh doanh, ứng dụng appscript + nocode để xây dựng cấu trúc bot
+A bot system that delivers notifications to users across multiple social media platforms such as Telegram, Slack, and Discord. It is highly practical for both educational and business purposes, utilizing AppScript and no-code approaches to build the bot architecture.
 
-Công trình được công bố trên Tạp chí Khoa học và Công nghệ – Đại học Thái Nguyên
+This research has been published in the Journal of Science and Technology – Thai Nguyen University.
+
 
 </td>
 <td width="30%">
@@ -39,7 +35,7 @@ Trang: 126-135
 Ngày: 26/06/2025
 ```
 
-**[Đọc Bài Báo →](https://jst.tnu.edu.vn/jst/article/view/12430)**
+**[Read Paper →](https://jst.tnu.edu.vn/jst/article/view/12430)**
 
 </td>
 </tr>
@@ -47,11 +43,11 @@ Ngày: 26/06/2025
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Chuyên môn kỹ thuật
+## Technical Expertise
 
 <div align="center">
 
-### Ngôn ngữ lập trình
+### Programming Languages
 
 <table>
 <tr>
@@ -184,7 +180,7 @@ Ngày: 26/06/2025
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Phân tích GitHub
+## GitHub Analytics
 
 
 </div>
@@ -198,10 +194,8 @@ Ngày: 26/06/2025
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Liên hệ & Cộng tác
+## Contact and Collaboration
 
 <div align="center">
-
-c
-
+Contact me via email if you are interested in collaborating or learning from each other.
 </div>
